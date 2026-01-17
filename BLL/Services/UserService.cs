@@ -1,0 +1,59 @@
+﻿using BLL.DTOs;
+using DAL.EF.Models;
+using DAL.Repos;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BLL.Services
+{
+    public class UserService
+    {
+        UserRepo repo;
+        public UserService(UserRepo repo)
+        {
+            this.repo = repo;
+
+        }
+
+        public List<UserDTO> Get()
+        {
+            var data = repo.Get();
+            var mapper = MapperConfig.GetMapper();
+            var ret = mapper.Map<List<UserDTO>>(data);
+            return ret;
+
+
+        }
+        public UserDTO Get(int id)
+        {
+            var data = repo.Get(id);
+            var mapper = MapperConfig.GetMapper();
+            var ret = mapper.Map<UserDTO>(data);
+            return ret;
+
+
+
+        }
+
+        public bool Create(UserDTO c)
+        {
+            var mapper = MapperConfig.GetMapper();
+            var data = mapper.Map<User>(c);
+            return repo.Create(data);
+        }
+        public bool Delete(int id)
+        {
+            repo.delete(id);
+            return true;
+        }
+        public bool Update(UserDTO c)
+        {
+            var mapper = MapperConfig.GetMapper();
+            var data = mapper.Map<User>(c);
+            return repo.update(data);
+        }
+    }
+}

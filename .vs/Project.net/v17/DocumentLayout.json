@@ -1,0 +1,464 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahfu\\source\\repos\\Project.net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8056B149-C3AC-482B-A1A6-1FE63B239B99}|BLL\\BLL.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8056B149-C3AC-482B-A1A6-1FE63B239B99}|BLL\\BLL.csproj|solutionrelative:bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCB4584-4978-48DC-ACC7-D743A4E17F8C}|DAL\\DAL.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\dal\\ef\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCB4584-4978-48DC-ACC7-D743A4E17F8C}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCB4584-4978-48DC-ACC7-D743A4E17F8C}|DAL\\DAL.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\dal\\ef\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCB4584-4978-48DC-ACC7-D743A4E17F8C}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCB4584-4978-48DC-ACC7-D743A4E17F8C}|DAL\\DAL.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\dal\\repos\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCB4584-4978-48DC-ACC7-D743A4E17F8C}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCB4584-4978-48DC-ACC7-D743A4E17F8C}|DAL\\DAL.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\dal\\repos\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCB4584-4978-48DC-ACC7-D743A4E17F8C}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A086CD-FC5D-468B-A5A0-07554094C86F}|API\\API.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A086CD-FC5D-468B-A5A0-07554094C86F}|API\\API.csproj|solutionrelative:api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A086CD-FC5D-468B-A5A0-07554094C86F}|API\\API.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A086CD-FC5D-468B-A5A0-07554094C86F}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8056B149-C3AC-482B-A1A6-1FE63B239B99}|BLL\\BLL.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\bll\\dtos\\billdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8056B149-C3AC-482B-A1A6-1FE63B239B99}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\billdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8056B149-C3AC-482B-A1A6-1FE63B239B99}|BLL\\BLL.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\bll\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8056B149-C3AC-482B-A1A6-1FE63B239B99}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8056B149-C3AC-482B-A1A6-1FE63B239B99}|BLL\\BLL.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\bll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8056B149-C3AC-482B-A1A6-1FE63B239B99}|BLL\\BLL.csproj|solutionrelative:bll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A086CD-FC5D-468B-A5A0-07554094C86F}|API\\API.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A086CD-FC5D-468B-A5A0-07554094C86F}|API\\API.csproj|solutionrelative:api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCB4584-4978-48DC-ACC7-D743A4E17F8C}|DAL\\DAL.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\dal\\repos\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCB4584-4978-48DC-ACC7-D743A4E17F8C}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8056B149-C3AC-482B-A1A6-1FE63B239B99}|BLL\\BLL.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\bll\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8056B149-C3AC-482B-A1A6-1FE63B239B99}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8056B149-C3AC-482B-A1A6-1FE63B239B99}|BLL\\BLL.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\bll\\dtos\\summarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8056B149-C3AC-482B-A1A6-1FE63B239B99}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\summarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8056B149-C3AC-482B-A1A6-1FE63B239B99}|BLL\\BLL.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8056B149-C3AC-482B-A1A6-1FE63B239B99}|BLL\\BLL.csproj|solutionrelative:bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCB4584-4978-48DC-ACC7-D743A4E17F8C}|DAL\\DAL.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\dal\\ef\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCB4584-4978-48DC-ACC7-D743A4E17F8C}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCB4584-4978-48DC-ACC7-D743A4E17F8C}|DAL\\DAL.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\dal\\ef\\pmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCB4584-4978-48DC-ACC7-D743A4E17F8C}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\pmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8056B149-C3AC-482B-A1A6-1FE63B239B99}|BLL\\BLL.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8056B149-C3AC-482B-A1A6-1FE63B239B99}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A086CD-FC5D-468B-A5A0-07554094C86F}|API\\API.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A086CD-FC5D-468B-A5A0-07554094C86F}|API\\API.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8056B149-C3AC-482B-A1A6-1FE63B239B99}|BLL\\BLL.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8056B149-C3AC-482B-A1A6-1FE63B239B99}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCB4584-4978-48DC-ACC7-D743A4E17F8C}|DAL\\DAL.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCB4584-4978-48DC-ACC7-D743A4E17F8C}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A086CD-FC5D-468B-A5A0-07554094C86F}|API\\API.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A086CD-FC5D-468B-A5A0-07554094C86F}|API\\API.csproj|solutionrelative:api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8056B149-C3AC-482B-A1A6-1FE63B239B99}|BLL\\BLL.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8056B149-C3AC-482B-A1A6-1FE63B239B99}|BLL\\BLL.csproj|solutionrelative:bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8056B149-C3AC-482B-A1A6-1FE63B239B99}|BLL\\BLL.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\bll\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8056B149-C3AC-482B-A1A6-1FE63B239B99}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCB4584-4978-48DC-ACC7-D743A4E17F8C}|DAL\\DAL.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\dal\\ef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCB4584-4978-48DC-ACC7-D743A4E17F8C}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A086CD-FC5D-468B-A5A0-07554094C86F}|API\\API.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89A086CD-FC5D-468B-A5A0-07554094C86F}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCB4584-4978-48DC-ACC7-D743A4E17F8C}|DAL\\DAL.csproj|c:\\users\\mahfu\\source\\repos\\project.net\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCB4584-4978-48DC-ACC7-D743A4E17F8C}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\DAL\\Repos\\BookRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\BookRepo.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\DAL\\Repos\\BookRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\BookRepo.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIA+wBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T06:03:51.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\DAL\\Repos\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\CategoryRepo.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\DAL\\Repos\\CategoryRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\CategoryRepo.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:31:28.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\BLL\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\BLL\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\OrderDTO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T09:17:09.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\DAL\\EF\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\DAL\\EF\\Models\\Order.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\Order.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T05:28:10.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\BLL\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\BLL\\Services\\OrderService.cs",
+              "RelativeToolTip": "BLL\\Services\\OrderService.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T09:19:49.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:23:17.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAowFEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T09:22:50.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\DAL\\EF\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\DAL\\EF\\Models\\Book.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\Book.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T05:27:25.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\API\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\API\\Controllers\\BookController.cs",
+              "RelativeToolTip": "API\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAcwEwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T06:13:43.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\DAL\\Repos\\OrderRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\OrderRepo.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\DAL\\Repos\\OrderRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\OrderRepo.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAArwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T09:15:09.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\BLL\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\BLL\\Services\\BookService.cs",
+              "RelativeToolTip": "BLL\\Services\\BookService.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwE8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T06:10:57.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BillDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\BLL\\DTOs\\BillDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\BillDTO.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\BLL\\DTOs\\BillDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\BillDTO.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:19:14.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\BLL\\DTOs\\BookDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\BLL\\DTOs\\BookDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\BookDTO.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA0wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T06:09:31.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SummaryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\BLL\\DTOs\\SummaryDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\SummaryDTO.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\BLL\\DTOs\\SummaryDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\SummaryDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T06:23:42.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\BLL\\MapperConfig.cs",
+              "RelativeDocumentMoniker": "BLL\\MapperConfig.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\BLL\\MapperConfig.cs",
+              "RelativeToolTip": "BLL\\MapperConfig.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:49:52.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T08:48:01.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PMSContext.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\DAL\\EF\\PMSContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\PMSContext.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\DAL\\EF\\PMSContext.cs",
+              "RelativeToolTip": "DAL\\EF\\PMSContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:19:00.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\DAL\\EF\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\DAL\\EF\\Models\\User.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\User.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T05:27:57.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T08:52:33.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T08:46:55.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "API\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:24:34.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\DAL\\Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\DAL\\Repos\\UserRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\UserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T08:44:59.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\BLL\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\BLL\\Services\\CategoryService.cs",
+              "RelativeToolTip": "BLL\\Services\\CategoryService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:08:19.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\DAL\\EF\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\DAL\\EF\\Models\\Category.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\Category.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:16:30.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\BLL\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\BLL\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:41:13.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-15T13:21:56.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\Project.net\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\Project.net\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:04:21.269Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
